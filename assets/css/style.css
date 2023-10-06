@@ -27,10 +27,6 @@ body {
   left: auto;
 }
 
-.myboxes {
-  width: 200px;
-}
-
 @media (max-width: 767px) {
   .carousel-inner .carousel-item > div {
     display: none;
