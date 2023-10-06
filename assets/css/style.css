@@ -27,6 +27,10 @@ body {
   left: auto;
 }
 
+.myboxes {
+  width: 200px;
+}
+
 @media (max-width: 767px) {
   .carousel-inner .carousel-item > div {
     display: none;
@@ -58,7 +62,7 @@ body {
 }
 
 .personal {
-  padding-left: 10em;
+  padding-left: 10%;
 }
 
 li > a {
@@ -71,4 +75,9 @@ footer {
 
 #copyright {
   margin-left: 11em;
+}
+
+footer button {
+  display: flex;
+  margin-left: 12em;
 }/*# sourceMappingURL=style.css.map */
