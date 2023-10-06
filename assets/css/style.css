@@ -76,4 +76,33 @@ footer {
 footer button {
   display: flex;
   margin-left: 12em;
+}
+
+body {
+  background-color: rgb(20, 20, 20);
+  background-color: rgb(20, 20, 20);
+}
+
+header img {
+  width: 150px;
+}
+
+#mainProfile {
+  margin-left: 5em;
+  margin-right: 5em;
+}
+
+#student {
+  background-color: #666666;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: 1em;
+}
+
+#maturity {
+  background-color: #333333;
+  width: 200px;
+  text-align: center;
+  font-weight: bold;
+  padding: 0.1em;
 }/*# sourceMappingURL=style.css.map */

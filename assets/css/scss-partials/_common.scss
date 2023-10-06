@@ -1,6 +1,8 @@
 html{
     overflow-x: hidden;
 }
+ $commonBg : rgb(20, 20, 20);
 body {
-    background-color: rgb(20, 20, 20);
+    background-color: $commonBg;
    }
+ 
